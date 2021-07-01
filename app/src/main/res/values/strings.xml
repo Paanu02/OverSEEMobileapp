@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">OverSEE</string>
+    <!--food_drink Screen-->
+    <string name="no_data">ไม่มีข้อมูล</string>
+    <string name="no_data_cal">"??"</string>
+    <string name="price">ราคา</string>
+    <string name="todo">TODO</string>
+    <string name="baht">บาท</string>
+    <string name="kilo_calories">กิโลแคลอรี่</string>
+    <string name="calorie_content">ปริมาณแคลอรี่</string>
+    <string name="food_and_drink">อาหารและเครื่องดื่ม</string>
+    <string name="add_to_list">เพิ่มในรายการ</string>
+    <string name="added">เพิ่มแล้ว</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <!--food_drink Screen End-->
 </resources>
